@@ -3,4 +3,4 @@ This short script reads, extracts and plots a datacube image collected by a hype
 
 The files has been updated to allow for spectral data extraction. 
 
-Any NetCDF file should be read and inspected using the same method in this script. 
+Any NetCDF file should be read and inspected using the same method in this script
